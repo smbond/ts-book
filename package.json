@@ -1,0 +1,28 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "Test examples from Type Script book",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smbond/ts-book.git"
+  },
+  "keywords": [
+    "ts-book"
+  ],
+  "author": "smbond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smbond/ts-book/issues"
+  },
+  "homepage": "https://github.com/smbond/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.1.7"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
